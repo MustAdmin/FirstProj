@@ -1,0 +1,6 @@
+/bin/
+*.class
+.cproject
+.project
+.classpath
+*.jar
